@@ -12,35 +12,55 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 传播学硕士研究生（在读），南京大学，2026-今
+* 文学学士，南京大学，2022–2026
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025年6月–2025年9月：江苏凤凰新华书店集团有限公司 综合办公室 实习生
+  * 负责集团小红书、微信公众号等新媒体账号的日常运营，参与内容策划与发布，提升账号活跃度与粉丝互动
+  * 协助网站稿件校对与内容审核，保障内容发布质量
+  * 参与江苏书展的筹备与宣发执行，协助完成活动传播与现场运营
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023年7月–2023年8月：江苏省广播电视总台融创工作室 实习编辑
+  * 参与融媒体内容策划与制作，协助完成新闻稿件编辑与发布
+  * 学习并实践新媒体平台运营技巧，提升内容传播效率
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Campus experience
+======
+* 2024年9月–2025年6月：南京大学校团委宣传与新媒体工作部 副部长
+  * 统筹校团委新媒体平台日常运营，负责选题策划、内容排版与视觉设计，把控内容质量与传播节奏
+  * 负责团队任务分工与进度协调，保障重大节点宣传任务高效落地
+
+* 2023年9月–2024年6月：南京大学新闻传播学院2022级2班 团支书
+  * 负责班级团务管理与团日活动组织，统筹团员发展、推优评优与材料报送等事务
+  * 策划组织班级集体活动，服务同学学习生活需求；作为班级与学院团委的沟通桥梁，及时传达、落实各项工作
+
+* 2022年9月–2023年6月：南京大学校团委社会实践部实习中心 部员
+  * 协助社会实践项目立项审核、组织对接与宣传材料整理，熟悉学生事务与活动组织流程
+
+* 2024年9月–2025年6月：南京大学"未来编辑部"项目 "新记者"编辑
+  * 负责深度报道、数据新闻、新闻评论、事实核查等多类型稿件撰写，累计投稿1万+字
+  * 多篇报道被虎嗅等媒体转发；事实核查系列报道获"第四届大学生校园媒体大赛"系列报道优秀奖
+
+Awards
+======
+* 2026年：南京大学 优秀毕业生
+* 2025年：南京大学基础学科论坛 二等奖、三等奖
+* 2024年：人民奖学金 科技创新奖
+* 2024年：第四届大学生校园媒体大赛 全国一等奖
+* 2023年：人民奖学金 二等奖
+
+Social practice
+======
+* "寻根之旅"实践团——校级重点立项，获"挑战杯"省级一等奖
+* "家在迁途"团队——校级重点立项；"风云对话"实践团——"挑战杯"校级专项
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 新媒体运营：选题策划、内容排版、视觉设计
+* 新闻写作：深度报道、数据新闻、事实核查
+* 组织与沟通：活动策划、团队协调、学生事务
 
 Publications
 ======
