@@ -36,14 +36,14 @@ redirect_from:
 
 在"核真录""新记者""新潮""新知朋辈"等校园媒体发表深度报道、数据新闻与事实核查报道二十余篇，部分作品被虎嗅等媒体转发：
 
-* [数据｜510个案件揭露代孕真相（核真录）](https://mp.weixin.qq.com/s/io7o_5mRW7hXvb_COYLmiA)
-* [核查｜关于巴以冲突，我们帮您核查了这些信息（核真录）](https://mp.weixin.qq.com/s/c8HHegy0h6iy6BKtJEEmQA)
-* [研学游：游我所欲也，学亦我所欲也（新记者）](https://mp.weixin.qq.com/s/9nEKqSshqRlydZvXsgwGFg)
-* [“考回上海”：随迁流转中埋下城市梦（新记者）](https://mp.weixin.qq.com/s/aTDSyS6fMB44AwOna0pSXg)
-* [特辑｜2024恋爱手册：我们的心动瞬间（新潮）](https://mp.weixin.qq.com/s/M-tatiMxwfRlnXFa8PCXkg)
-* [征集｜你还喜欢发朋友圈吗？（新潮）](https://mp.weixin.qq.com/s/Ul7weadT0DdUij_M9LClxg)
-* [腾讯、微软抢招高中生：效率至上的时代，我们会成为“单向度的人”吗？（新知朋辈）](https://mp.weixin.qq.com/s/_1iykJCUU9t7rkIuilowJA)
-* [豆包要收费，那谁来陪我聊天？（新知朋辈）](https://mp.weixin.qq.com/s/N6r0frteCAecvpZ1opo9uA)
+* [数据｜510个案件揭露代孕真相](https://mp.weixin.qq.com/s/io7o_5mRW7hXvb_COYLmiA)
+* [核查｜关于巴以冲突，我们帮您核查了这些信息](https://mp.weixin.qq.com/s/c8HHegy0h6iy6BKtJEEmQA)
+* [研学游：游我所欲也，学亦我所欲也](https://mp.weixin.qq.com/s/9nEKqSshqRlydZvXsgwGFg)
+* [“考回上海”：随迁流转中埋下城市梦](https://mp.weixin.qq.com/s/aTDSyS6fMB44AwOna0pSXg)
+* [特辑｜2024恋爱手册：我们的心动瞬间](https://mp.weixin.qq.com/s/M-tatiMxwfRlnXFa8PCXkg)
+* [征集｜你还喜欢发朋友圈吗？](https://mp.weixin.qq.com/s/Ul7weadT0DdUij_M9LClxg)
+* [腾讯、微软抢招高中生：效率至上的时代，我们会成为“单向度的人”吗？](https://mp.weixin.qq.com/s/_1iykJCUU9t7rkIuilowJA)
+* [豆包要收费，那谁来陪我聊天？](https://mp.weixin.qq.com/s/N6r0frteCAecvpZ1opo9uA)
 
 **视频作品**
 
