@@ -1,6 +1,6 @@
 ---
 permalink: /works/
-title: "作品"
+title: "works"
 author_profile: true
 ---
 
